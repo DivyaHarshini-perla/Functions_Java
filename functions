@@ -1,0 +1,61 @@
+import java.lang.*;
+import java.util.*;
+ class Main{
+  //   public static int sumOfDigits(int a,int b){
+  //       int sum=0;
+  //       sum=a+b;
+  //       return sum; 
+  //   }
+  //   public static void main(String [] args)
+  //   {
+  //     Scanner sc = new Scanner(System.in);
+  //     int a = sc.nextInt();
+  //     int b = sc.nextInt();
+  //     int ans = sumOfDigits(a,b);
+  //     System.out.println("Sum is "+ans);
+  //   } 
+  // public static boolean isEven(int n){
+  //   if(n%2 == 0)
+  //   {
+  //       return true;
+  //   }
+  //   else
+  //   {
+  //     return false;
+  //   }
+  // }
+  //  public static void main(String [] args)
+  //  {
+  //   System.out.println(isEven(8));
+  //  } 
+  //Area of rectangle using functions
+  // public static double rectangleArea(double l,double b)
+  // {
+  //   double area = l*b;
+  //   return area;
+  // }
+  // public static void main(String [] args)
+  // {
+  //   Scanner sc = new Scanner(System.in);
+  //   double l = sc.nextDouble();
+  //   double b = sc.nextDouble();
+  //   // double ans = rectangleArea(l,b);
+  //   System.out.println(rectangleArea(l,b));
+  // }
+  //volume of right circular cone is 1/3pir^2h
+  // public static double coneVolume(int h,int r)
+  // {
+  //   double vol = 0.33*3.14*r*r*h;
+  //we can use Math.pI to get accurate result.. and 1.0/3 * Math.PI * r * r* h here if we divide integer on integer it results integer which becomes zero so we made 1 as 1.0 which is double and divides it 
+  //   return vol;
+  // }
+  // public static void main(String [] args)
+  // {
+  //   Scanner sc = new Scanner(System.in);
+  //   int h = sc.nextInt();
+  //   int r = sc.nextInt();
+  //   double ans = coneVolume(h,r);
+  //   System.out.println("Volume of right circular cone is " +ans);
+  // }
+} 
+     
